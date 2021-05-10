@@ -1,3 +1,10 @@
-# Project Name
+# Korg MS20 VCF
 
-some description about this project goes here.
+A(nother) eurorack adaptation of this classic Korg VCF from the MS20. 
+
+## Status
+
+- done: first schematic & board design
+- done: breadboard and test
+- done: design frontpanel
+- done: order PCB and build prototype
