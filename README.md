@@ -2,7 +2,7 @@
 
 A(nother) eurorack adaptation of this classic Korg VCF from the MS20. 
 
-## Status
+## Status: Finished
 
 - done: first schematic & board design
 - done: breadboard and test
